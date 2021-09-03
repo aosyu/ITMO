@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/annak/Documents/2sem/C++/calc-trig-aosyu/src/main.cpp
+calc.h
+C:/Users/annak/Documents/2sem/C++/calc-trig-aosyu/src/calc.h
+iostream
+-
+string
+-
+
